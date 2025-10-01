@@ -1,4 +1,3 @@
-Markdown
 Calculadora Científica em C
 o que faz o programa ?
 
